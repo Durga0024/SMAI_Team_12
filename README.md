@@ -13,6 +13,6 @@ We are doing this as project in SMAI course with team size Four
 
 
 #### how to run the code
-* just run the jupyternotebook cells one by one and make sure the dataset should be there.
+* just run the jupyter notebook cells one by one and make sure the dataset should be there.
 
 
