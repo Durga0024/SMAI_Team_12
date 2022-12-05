@@ -12,6 +12,7 @@ We are doing this as project in SMAI course with team size Four
 * Aditya Kondai (aditya.kondai@students.iiit.ac.in)
 
 
-
+#### how to run the code
+* just run the jupyternotebook cells one by one and make sure the dataset should be there.
 
 
